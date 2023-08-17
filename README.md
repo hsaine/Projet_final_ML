@@ -53,6 +53,13 @@ The dataset has been provided by the Mexican government (link). This dataset con
 </ul>
 The primary goal of this project is to construct a machine learning model that, considering the symptoms, current health status, and medical history of a COVID-19 patient, will predict whether the patient is at high risk or not. The dataset, provided by the Mexican government, contains a substantial amount of anonymized information about patients, allowing for an in-depth analysis of COVID-related factors.
 
+<h1 align="center">Data Preparation and Results</h1>
+
+"Within the code, you will discover an explanation of the data preparation steps, details about the applied algorithms, and a comprehensive presentation of the results.
+<a href="project_final_.ipynb">Data Preparation and Results</a>
+
+
+
 
 <h1 align="center">GENERAL CONCLUSION</h1>
 
