@@ -56,7 +56,7 @@ The primary goal of this project is to construct a machine learning model that, 
 <h1 align="center">Data Preparation and Results</h1>
 
 "Within the code, you will discover an explanation of the data preparation steps, details about the applied algorithms, and a comprehensive presentation of the results.
-<a href="project_final_.ipynb">Data Preparation and Results</a>
+<a href="projet_final_.ipynb">Data Preparation and Results</a>
 
 
 
